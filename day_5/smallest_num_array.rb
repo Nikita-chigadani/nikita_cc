@@ -10,4 +10,4 @@ puts "smallest num is #{min}"
  num = a.length/2
  puts a[num]
  
- puts "#{num}"
+#  puts "#{num}"
